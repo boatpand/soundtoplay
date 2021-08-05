@@ -1,5 +1,5 @@
 # soundtoplay
-play YouTube with user's speech!
+play YouTube from user's speech!
 
 When you run this python script with command python3 main.py it's always run with while true loop until have an error.
 When this python script is working when you call "benjamin" (name of this service that i named him) then python script will say "Hi what song" to you
